@@ -1,0 +1,22 @@
+# Core FastAPI and server
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# Database - Fixed versions for Python 3.13 compatibility
+sqlalchemy==1.4.48
+psycopg2-binary==2.9.7
+
+# Pydantic with Python 3.13 compatibility
+pydantic>=1.10.0,<2.0.0
+
+# AI/LLM - Simplified versions
+langchain==0.0.350
+requests==2.31.0
+
+# Scheduling
+apscheduler==3.10.4
+
+# Utilities
+python-dotenv==1.0.0
+python-multipart==0.0.6
+jinja2==3.1.2
