@@ -1,0 +1,11 @@
+site_name: 'Agent Nudging Frontend'
+site_description: 'Nudging Agent Frontend Application'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
+
+theme:
+  name: material
